@@ -1,0 +1,75 @@
+body {
+	background-color: #333;
+}
+
+.header-container {
+	width: 100%;
+	margin: auto;	
+}
+
+.logo {
+	margin: 50px auto;
+	text-align: center;
+	height: 150px;
+	width: 500px;
+	background: blue;
+}
+
+.icon-container {
+	margin: auto;
+	text-align: center;
+}
+
+.icon-evil {
+	display: inline-block;
+	background: url('../img/evil/evil.png') no-repeat;
+	width: 130px;
+	zheight: 150px;
+	margin: 10px 0 0 10px;
+}
+
+.icon-good {
+	display: inline-block;
+	background: url('../img/good/good.png') no-repeat;
+	width: 130px;
+	height: 150px;
+	margin-left: 10px;
+}
+
+.icon-evil img, .icon-good img {
+	margin-top: 40px;
+	height: 100px;
+}
+
+.icon-evil .timecontrols {
+	margin: auto;
+	width: 100px;
+	height: 35px;
+	background-color: #eee;
+}
+
+.icon-evil .timecontrols .increase {
+	float: left;
+	width: 35px;
+	height: 35px;
+	border: none;
+	border-right: 1px solid #333;
+	background-color: #eee;
+}
+.icon-evil .timecontrols .decrease {
+	float: right;
+	width: 35px;
+	height: 35px;
+	border: none;
+	border-left: 1px solid #333;
+	background-color: #eee;
+}
+
+
+.icon-evil .timecontrols .time {
+	display: inline-block;
+	width: 10px;
+	font-size: 20px;
+	color: #333;
+}
+
