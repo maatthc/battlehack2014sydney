@@ -11,3 +11,9 @@ Team
 * Harrison <hd.0094@gmail.com>
 * Romesh Wickramasekera <romesh.panditha@hotmail.com>
 
+
+
+PayPal Integration
+==================
+
+Use Reference Transactions - https://developer.paypal.com/docs/classic/express-checkout/integration-guide/ECReferenceTxns/

@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "ProcasDonate",
+  "description": "Spending too much time on Facebook, Instagram, gambling online? Wanna help yourself and at the same time help any noble cause, as a charity project? this extension is for you!",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://*/*, https://*/*, "
+  ],
+    "icons":{
+        "128":"icon_128.png"
+    }
+}
